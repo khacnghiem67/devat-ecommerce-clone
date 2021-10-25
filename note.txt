@@ -1,0 +1,15 @@
+- Front End :
+    + react-router-dom
+    + react-paypal-express-checkout
+
+- Back End :
+    + bcrypt
+    + cloudinary
+    + cookie-parser
+    + concurrently
+    + cors
+    + dotenv
+    + express
+    + express-fileupload
+    + jsonwebtoken
+    + mongoose
